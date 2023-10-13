@@ -4,7 +4,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="http://135.181.30.32:3000/">
-      <img src="https://img.shields.io/badge/Personal Website-blue?style=for-the-badge&logoColor=white" alt="Personal Website Badge"/>
+      <img src="https://img.shields.io/badge/Personal Website-green?style=for-the-badge&logoColor=white" alt="Personal Website Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=aligheshlaghi97&style=flat-square&color=blue" alt=""/>
