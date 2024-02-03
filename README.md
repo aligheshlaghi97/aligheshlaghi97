@@ -7,7 +7,6 @@
       <img src="https://img.shields.io/badge/Personal Website-green?style=for-the-badge&logoColor=white" alt="Personal Website Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=aligheshlaghi97&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### Hi there 👋, I'm Ali Gheshlaghi
