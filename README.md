@@ -15,9 +15,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Python developer, interested in Quantitative Finance, Django framework and Telegram bots.
-- 🌱 I’m currently learning `python` in more depth. 
-- 👯 I’m open to collaborate on Quantitative Finance to implement new ideas.
+- 💻 I’m currently working as a Python developer, interested in Quantitative Finance, Django framework and Telegram bots.
+- 📚 I’m currently learning `python` in more depth. 
+- 👥 I’m open to collaborate on Quantitative Finance to implement new ideas.
 - 🤔 I’m looking for help with `asynchronous-python`
 - 💬 Ask me about Quantitative Finance, Backend Development, Python, Django, Cryptocurrency
 - 📫 How to reach me: aliigheshlaghi97@gmail.com
