@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/aligheshlaghi97">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Personal Website-green?style=for-the-badge&logoColor=white" alt="Personal Website Badge"/>
     </a>
   </div>
-</div>
+</div> -->
 
 ### Hi there 👋, I'm Ali Gheshlaghi
 
