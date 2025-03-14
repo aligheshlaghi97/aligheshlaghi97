@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 💻 I’m currently working as a Python Backend Developer, interested in Quantitative Finance, Async Programming and Frontend Development.
-- 📚 I’m currently learning `TypeScript` in more depth.
+- 📚 I’m currently learning `TypeScript` while deepening my `Python` knowledge.
 - 👥 I’m open to collaborate on Quantitative/Backend/Frontend projects to implement new ideas.
 - 📫 How to reach me: aliigheshlaghi97@gmail.com
 
