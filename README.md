@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aliigheshlaghi97@gmail.com
 
 ### My Stats :
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aligheshlaghi97&theme=dark&show_icons=true&count_private=true"/>
+  <img src="https://github-stats-aggregator.vercel.app/api?user=aligheshlaghi97&org=Finance-Insight-Lab"/>
 
 </p>
 
