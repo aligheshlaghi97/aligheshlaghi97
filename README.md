@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ### My Stats :
 
 <p align="center">
-  <img src="https://github-stats-aggregator.vercel.app/api?user=aligheshlaghi97&org=Finance-Insight-Lab"/>
+  <img src="https://github-stats-aggregator.vercel.app/api?user=aligheshlaghi97&org=Finance-Insight-Lab&v=1"/>
 
 </p>
 
